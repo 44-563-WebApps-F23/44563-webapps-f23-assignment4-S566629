@@ -14,3 +14,19 @@
     background-color: lightpink;
     color: black;
 }
+
+.table {
+  border: 2px;
+  color: brown;
+  text-align: center;
+  border: 5px solid black; 
+  margin-left: 21%;
+  width: 800px;
+  
+}
+
+
+.table th {
+  background-color: lightblue;
+  color: red;
+}
