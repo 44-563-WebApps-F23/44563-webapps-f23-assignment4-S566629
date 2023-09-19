@@ -26,6 +26,27 @@
   
 }
 
+.HEDDA {
+  color: pink;
+
+}
+.HEDDA:hover {
+  box-shadow: 20px 20px 50px rgba(2, 4, 5, 0.5);
+  border: 2px solid green;
+  text-shadow: 2px 3px 5px green;
+}
+
+.BRACK {
+  color: red;
+}
+
+.BRACK:hover {
+  box-shadow: 2px 10px 5px rgba(3, 5, 7, 0.5);
+  border: 2px solid green;
+  text-shadow: 2px 3px 5px red;
+}
+
+
 
 .table th {
   background-color: lightblue;
@@ -35,3 +56,5 @@
 .link {
   margin-left:45%;
 }
+
+
