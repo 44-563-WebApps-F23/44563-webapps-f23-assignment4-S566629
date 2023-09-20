@@ -59,6 +59,11 @@
   color: red;
 }
 
+tr:nth-child(even) {
+  text-align: center;
+  background-color: aqua;
+}
+
 .link {
   margin-left:45%;
 }
